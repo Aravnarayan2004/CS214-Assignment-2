@@ -4,6 +4,9 @@
 **Semester:** 2, 2025  
 
 ------------------------
+##  Group Members
+Arav Narayan - S11230967
+Krishnil Prasad  - S11022399 
 
 
 ##  1.0 Project Overview
