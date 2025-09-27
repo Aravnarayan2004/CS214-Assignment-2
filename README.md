@@ -1,4 +1,4 @@
-# 🧭 CS214 Assignment 2 – Traveling Salesman Problem (TSP): DP vs GA
+# CS214 Assignment 2 – Traveling Salesman Problem (TSP): DP vs GA
 
 **Course:** CS214 – Design & Analysis of Algorithms  
 **Semester:** 2, 2025  
@@ -26,7 +26,7 @@ The project analyzes the trade-offs between **deterministic** and **stochastic**
 
 ---
 
-## 🛠️ 2.0 Instructions for Running the Program
+##  2.0 Instructions for Running the Program
 
 1. Clone or download the project and open it as a **Maven project** in IntelliJ or Eclipse.
 2. Ensure the following dependencies are available:
