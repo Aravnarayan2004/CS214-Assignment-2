@@ -78,5 +78,9 @@ The project analyzes the trade-offs between **deterministic** and **stochastic**
   - `summary.csv` – aggregated statistics per problem
   - `run_details.csv` – detailed data for each GA run
   - `plot_ga.png`, `plot_dp.png`, `plot_combined.png` – visual performance graphs
+  - 
+### Referance
+
+ 1. Held, M. and Karp, R. M. (1962). A Dynamic Programming Approach to Sequencing Problems. Journal of the Society for Industrial and Applied Mathematics, 10(1), 196–210. https://doi.org/10.1137/0110015
 
 
